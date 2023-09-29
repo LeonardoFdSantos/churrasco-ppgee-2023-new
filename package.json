@@ -1,0 +1,22 @@
+{
+  "name": "churrasco-ppgee-2023-new",
+  "version": "1.0.0",
+  "private": true,
+  "description": "churrasco-ppgee-2023-new",
+  "author": "Leonardo Felipe dos Santos",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^5.12.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
