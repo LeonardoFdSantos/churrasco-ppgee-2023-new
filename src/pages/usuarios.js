@@ -1,9 +1,12 @@
-import * as React from "react"
+import * as React from "react";
+
+import NavBar from '../components/navbar';
 
 const UsuariosPage = () => {
   return (
     <main>
-      <h1>Usuarios</h1>
+      <NavBar />
+      <h1>Usuarios Totais</h1>
     </main>
   )
 }
